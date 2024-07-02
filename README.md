@@ -65,7 +65,6 @@ This repository contains a Telegram bot designed to perform DDoS attacks. The bo
 1. Run the bot:
 
    ```sh
-   chmod +x *
    python watcher.py
    ```
 
