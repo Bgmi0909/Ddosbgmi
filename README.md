@@ -1,6 +1,6 @@
 ## Contact 
 
-For any queries or support or removal, contact [@mesh213](https://t.me/mesh213) on Telegram. 
+For any queries or support or removal, contact [@bgmiopbotyt](https://t.me/Bgmiopbotyt) on Telegram. 
 
 ONLY FOR TESTING PURPOSE 
 ---
